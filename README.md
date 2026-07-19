@@ -3,13 +3,21 @@
 Personal portfolio website showcasing my projects, skills, and background as a student at IIIT Raichur.
 
 ## 🔗 Live Demo
-[Add your GitHub Pages link here once enabled — Settings → Pages → deploy from `main` branch]
+[View Live](https://amanbuildz.github.io/my-portfolio/)
 
 ## 📌 About
-This is my personal portfolio site built to introduce myself, highlight my projects (like machine learning and Java-based work), and share ways to connect with me.
+A personal portfolio page built as a CS101 (Introduction to Computer Science) assignment at IIIT Raichur. It introduces me, my education, skills, and mini projects through a clean, dark-themed single-page layout with smooth section navigation.
+
+## ✨ Features
+- Responsive dark-themed design (mobile-friendly)
+- Sticky nav bar linking to About, Education, Skills, Projects, and Contact sections
+- Education history displayed in a table
+- Skill chips/tags for quick scanning
+- Styled call-to-action buttons
 
 ## 🛠️ Built With
-- HTML
+- HTML5
+- CSS3 (embedded styling, flexbox layout, media queries)
 
 ## 🚀 How to Run Locally
 ```bash
@@ -23,7 +31,6 @@ Open `index.html` in your browser — that's it, no build steps needed.
 
 ## 📬 Contact
 - GitHub: [@amanbuildz](https://github.com/amanbuildz)
-- Email :- amanchoudhary3540@gmail.com
 
 ---
 ⭐ If you like this project, consider giving it a star!
